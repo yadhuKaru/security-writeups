@@ -1,4 +1,4 @@
-# security-writeup
+# security-writeups
 
 Hey — I'm Yadhu (aka Homie Hacks), and this is where I document the security rooms and boxes I work through.
 
