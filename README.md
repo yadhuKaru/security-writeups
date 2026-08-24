@@ -21,7 +21,7 @@ Every writeup here follows the same rule: **show the "why"  AND the "what."**
 
 | # | Room | Platform | What's Inside |
 
-| 1 | [Whiterose](./whiterose-writeup.md) | TryHackMe | Chaining weak creds → an IDOR → a leaked password → an SSTI/RCE bug in EJS → a `sudo` privilege-escalation CVE, all the way to root |
+| 1 | [Whiterose](/TryHackMe/Whiterose/Whiterose.md) | TryHackMe | Chaining weak creds → an IDOR → a leaked password → an SSTI/RCE bug in EJS → a `sudo` privilege-escalation CVE, all the way to root |
 
 *When new posts come out you can check back here, or watch the repo for updates.*
 
