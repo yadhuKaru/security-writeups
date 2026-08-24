@@ -2,9 +2,8 @@
 
 Hey — I'm Yadhu (aka Homie Hacks), and this is where I document the security rooms and boxes I work through.
 
-I'm heading into cybersecurity as an incoming freshman focused on offensive security, and I built this repo with  **beginners** in mind.  
-I want to show how someone actually *thinks* through these boxes, not just copy-paste commands. 
-Every writeup here follows the same rule: **show the "why," not just the "what."** 
+I built this repo with  **beginners** in mind, working to show how someone actually *thinks* through these boxes, and not just copy-paste commands. 
+Every writeup here follows the same rule: **show the "why"  AND the "what."** 
 
 
 ---
@@ -30,8 +29,8 @@ Every writeup here follows the same rule: **show the "why," not just the "what."
 
 ## A Bit More About Me
 
-I'm currently a freshman in college studying Comp Sci and Eng.  with a focus on offensive security
-This series doubles as both a learning log and a portfolio soo if you're a beginner, I hope these help something click.
+I'm currently a college student studying Comp Sci and Eng. with a focus in general cybersecurity right now.
+This series doubles as both a learning log and a portfolio so, if you're a beginner, I hope these help something click.
 If you're evaluating my work,  thanks for reading, and feel free to open an issue or reach out if you spot something I got wrong. 
 
 ---
